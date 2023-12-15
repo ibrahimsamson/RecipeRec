@@ -1,0 +1,9 @@
+ 
+nltk
+pandas 
+tqdm 
+numpy 
+torch 
+dgl 
+gensim 
+scikit-learn

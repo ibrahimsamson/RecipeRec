@@ -1,6 +1,8 @@
 from recipe_rec.hgnn import RecipeRec
 from recipe_rec.dataset import URI_Graph
 
+dataset_folder = '../data/' 
+
 
 graph = URI_Graph(data_dir="../data")
 model = RecipeRec(graph)
